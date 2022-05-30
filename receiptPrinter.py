@@ -1,0 +1,4 @@
+# RECEIPT PRINTER
+
+import styles
+

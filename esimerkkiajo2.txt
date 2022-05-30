@@ -1,0 +1,300 @@
+────────────────────────────────────────────────────────────────────────────────
+Päävalikko:
+1) Lisää tuote
+2) Muokkaa tuotetta
+3) Poista tuote
+4) Esikatsele kuittia
+5) Vie kuitti tekstitiedostoon
+6) Tallenna tiedosto
+7) Avaa tiedosto
+0) Lopeta
+
+Valintasi: 1
+────────────────────────────────────────────────────────────────────────────────
+Tuotteiden lisäys:
+Anna nimi: keinutuoli
+Anna hinta (€): 50
+Anna lukumäärä (kpl): 1
+Anna alennusprosentti (%): 0
+────────────────────────────────────────────────────────────────────────────────
+Päävalikko:
+1) Lisää tuote
+2) Muokkaa tuotetta
+3) Poista tuote
+4) Esikatsele kuittia
+5) Vie kuitti tekstitiedostoon
+6) Tallenna tiedosto
+7) Avaa tiedosto
+0) Lopeta
+
+Valintasi: 1
+────────────────────────────────────────────────────────────────────────────────
+Tuotteiden lisäys:
+Anna nimi: pöytä
+Anna hinta (€): 25
+Anna lukumäärä (kpl): 1
+Anna alennusprosentti (%): 10
+────────────────────────────────────────────────────────────────────────────────
+Päävalikko:
+1) Lisää tuote
+2) Muokkaa tuotetta
+3) Poista tuote
+4) Esikatsele kuittia
+5) Vie kuitti tekstitiedostoon
+6) Tallenna tiedosto
+7) Avaa tiedosto
+0) Lopeta
+
+Valintasi: 1
+────────────────────────────────────────────────────────────────────────────────
+Tuotteiden lisäys:
+Anna nimi: sänky
+Anna hinta (€): 200
+Anna lukumäärä (kpl): 1
+Anna alennusprosentti (%): 10
+────────────────────────────────────────────────────────────────────────────────
+Päävalikko:
+1) Lisää tuote
+2) Muokkaa tuotetta
+3) Poista tuote
+4) Esikatsele kuittia
+5) Vie kuitti tekstitiedostoon
+6) Tallenna tiedosto
+7) Avaa tiedosto
+0) Lopeta
+
+Valintasi: 2
+────────────────────────────────────────────────────────────────────────────────
+Tuotteiden muokkaus:
+┌─────┬────────────────────────────────────────────────────────────────────────┐
+│ ID  │ TUOTE                                                                  │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   1 │ NIMI      KEINUTUOLI                                                   │
+│     │ HINTA     €/kpl 50.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 50.00                                                      │
+│     │ ALE       % 0                                                          │
+│     │           € 0.00                                                       │
+│     │ YHTEENSÄ  € 50.00                                                      │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   2 │ NIMI      PÖYTÄ                                                        │
+│     │ HINTA     €/kpl 25.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 25.00                                                      │
+│     │ ALE       % 10                                                         │
+│     │           € 2.50                                                       │
+│     │ YHTEENSÄ  € 22.50                                                      │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   3 │ NIMI      SÄNKY                                                        │
+│     │ HINTA     €/kpl 200.00                                                 │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 200.00                                                     │
+│     │ ALE       % 10                                                         │
+│     │           € 20.00                                                      │
+│     │ YHTEENSÄ  € 180.00                                                     │
+└─────┴────────────────────────────────────────────────────────────────────────┘
+
+Anna muutettavan tuotteen ID
+(0 palaa takaisin): 2
+
+┌─────┬────────────────────────────────────────────────────────────────────────┐
+│ ID  │ TUOTE                                                                  │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   2 │ NIMI      PÖYTÄ                                                        │
+│     │ HINTA     €/kpl 25.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 25.00                                                      │
+│     │ ALE       % 10                                                         │
+│     │           € 2.50                                                       │
+│     │ YHTEENSÄ  € 22.50                                                      │
+└─────┴────────────────────────────────────────────────────────────────────────┘
+
+Valitse muutettava ominaisuus:
+1) Nimi
+2) Hinta
+3) Määrä
+4) Alennusprosentti
+0) Peruuta
+Valintasi: 2
+Anna hinta (€): 35
+
+┌─────┬────────────────────────────────────────────────────────────────────────┐
+│ ID  │ TUOTE                                                                  │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   2 │ NIMI      PÖYTÄ                                                        │
+│     │ HINTA     €/kpl 35.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 35.00                                                      │
+│     │ ALE       % 10                                                         │
+│     │           € 3.50                                                       │
+│     │ YHTEENSÄ  € 31.50                                                      │
+└─────┴────────────────────────────────────────────────────────────────────────┘
+
+Valitse muutettava ominaisuus:
+1) Nimi
+2) Hinta
+3) Määrä
+4) Alennusprosentti
+0) Peruuta
+Valintasi: 0
+────────────────────────────────────────────────────────────────────────────────
+Tuotteiden muokkaus:
+┌─────┬────────────────────────────────────────────────────────────────────────┐
+│ ID  │ TUOTE                                                                  │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   1 │ NIMI      KEINUTUOLI                                                   │
+│     │ HINTA     €/kpl 50.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 50.00                                                      │
+│     │ ALE       % 0                                                          │
+│     │           € 0.00                                                       │
+│     │ YHTEENSÄ  € 50.00                                                      │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   2 │ NIMI      PÖYTÄ                                                        │
+│     │ HINTA     €/kpl 35.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 35.00                                                      │
+│     │ ALE       % 10                                                         │
+│     │           € 3.50                                                       │
+│     │ YHTEENSÄ  € 31.50                                                      │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   3 │ NIMI      SÄNKY                                                        │
+│     │ HINTA     €/kpl 200.00                                                 │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 200.00                                                     │
+│     │ ALE       % 10                                                         │
+│     │           € 20.00                                                      │
+│     │ YHTEENSÄ  € 180.00                                                     │
+└─────┴────────────────────────────────────────────────────────────────────────┘
+
+Anna muutettavan tuotteen ID
+(0 palaa takaisin): 0
+────────────────────────────────────────────────────────────────────────────────
+Päävalikko:
+1) Lisää tuote
+2) Muokkaa tuotetta
+3) Poista tuote
+4) Esikatsele kuittia
+5) Vie kuitti tekstitiedostoon
+6) Tallenna tiedosto
+7) Avaa tiedosto
+0) Lopeta
+
+Valintasi: 3
+────────────────────────────────────────────────────────────────────────────────
+Tuotteiden poisto:
+┌─────┬────────────────────────────────────────────────────────────────────────┐
+│ ID  │ TUOTE                                                                  │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   1 │ NIMI      KEINUTUOLI                                                   │
+│     │ HINTA     €/kpl 50.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 50.00                                                      │
+│     │ ALE       % 0                                                          │
+│     │           € 0.00                                                       │
+│     │ YHTEENSÄ  € 50.00                                                      │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   2 │ NIMI      PÖYTÄ                                                        │
+│     │ HINTA     €/kpl 35.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 35.00                                                      │
+│     │ ALE       % 10                                                         │
+│     │           € 3.50                                                       │
+│     │ YHTEENSÄ  € 31.50                                                      │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   3 │ NIMI      SÄNKY                                                        │
+│     │ HINTA     €/kpl 200.00                                                 │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 200.00                                                     │
+│     │ ALE       % 10                                                         │
+│     │           € 20.00                                                      │
+│     │ YHTEENSÄ  € 180.00                                                     │
+└─────┴────────────────────────────────────────────────────────────────────────┘
+
+Anna poistettavan tuotteen ID
+(0 palaa takaisin): 1
+Haluatko varmasti poistaa tuotteen seuraavan tuotteen?
+┌─────┬────────────────────────────────────────────────────────────────────────┐
+│ ID  │ TUOTE                                                                  │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   1 │ NIMI      KEINUTUOLI                                                   │
+│     │ HINTA     €/kpl 50.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 50.00                                                      │
+│     │ ALE       % 0                                                          │
+│     │           € 0.00                                                       │
+│     │ YHTEENSÄ  € 50.00                                                      │
+└─────┴────────────────────────────────────────────────────────────────────────┘
+Poista tuote (k/e): k
+Tuote '1' poistettiin listalta.
+────────────────────────────────────────────────────────────────────────────────
+Tuotteiden poisto:
+┌─────┬────────────────────────────────────────────────────────────────────────┐
+│ ID  │ TUOTE                                                                  │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   1 │ NIMI      PÖYTÄ                                                        │
+│     │ HINTA     €/kpl 35.00                                                  │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 35.00                                                      │
+│     │ ALE       % 10                                                         │
+│     │           € 3.50                                                       │
+│     │ YHTEENSÄ  € 31.50                                                      │
+├─────┼────────────────────────────────────────────────────────────────────────┤
+│   2 │ NIMI      SÄNKY                                                        │
+│     │ HINTA     €/kpl 200.00                                                 │
+│     │ MÄÄRÄ     kpl 1                                                        │
+│     │ VÄLISUMMA € 200.00                                                     │
+│     │ ALE       % 10                                                         │
+│     │           € 20.00                                                      │
+│     │ YHTEENSÄ  € 180.00                                                     │
+└─────┴────────────────────────────────────────────────────────────────────────┘
+
+Anna poistettavan tuotteen ID
+(0 palaa takaisin): 0
+────────────────────────────────────────────────────────────────────────────────
+Päävalikko:
+1) Lisää tuote
+2) Muokkaa tuotetta
+3) Poista tuote
+4) Esikatsele kuittia
+5) Vie kuitti tekstitiedostoon
+6) Tallenna tiedosto
+7) Avaa tiedosto
+0) Lopeta
+
+Valintasi: 4
+────────────────────────────────────────────────────────────────────────────────
+Kuitin esikatselu.
+
+============================
+TUOTE                  Hinta
+============================
+PÖYTÄ
+ 1 x 35.00 €           35.00
+ ALE: 10 %         -    3.50
+                   ---------
+                       31.50
+----------------------------
+SÄNKY
+ 1 x 200.00 €         200.00
+ ALE: 10 %         -   20.00
+                   ---------
+                      180.00
+============================
+YHTEENSÄ:             211.50
+============================
+
+Palaa takaisin painamalla [ENTER].
+────────────────────────────────────────────────────────────────────────────────
+Päävalikko:
+1) Lisää tuote
+2) Muokkaa tuotetta
+3) Poista tuote
+4) Esikatsele kuittia
+5) Vie kuitti tekstitiedostoon
+6) Tallenna tiedosto
+7) Avaa tiedosto
+0) Lopeta
+
+Valintasi: 0
+Kiitos ohjelman käytöstä.
